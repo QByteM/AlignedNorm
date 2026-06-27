@@ -13,17 +13,24 @@
 
 <div>
     <h4 align="center">
-        <a href="https://github.com/QByteM/AlignedNorm" target="_blank">
+        <a href="https://qbytem.github.io/alignednorm/" target="_blank">
             <img src="https://img.shields.io/badge/🌐-Project%20Page-blue">
         </a>
-        <a href="https://github.com/QByteM/AlignedNorm" target="_blank">
+        <a href="https://qbytem.github.io/files/AlignedNorm_EN.pdf" target="_blank">
             <img src="https://img.shields.io/badge/📄-Paper-red">
         </a>
-        <a href="https://github.com/QByteM/AlignedNorm" target="_blank">
-            <img src="https://img.shields.io/badge/arXiv-2606.06601-b31b1b.svg">
+        <a href="https://qbytem.github.io/files/AlignedNorm_CN.pdf" target="_blank">
+            <img src="https://img.shields.io/badge/🌏-中译版-green">
+        </a>
+        <a href="https://qbytem.github.io/files/AlignedNorm_slide.pptx" target="_blank">
+            <img src="https://img.shields.io/badge/📊-Slides-orange">
+        </a>
+        <a href="https://openreview.net/forum?id=aQAWAtrxxe" target="_blank">
+            <img src="https://img.shields.io/badge/OpenReview-ICML%202026-purple">
         </a>
     </h4>
 </div>
+
 
 ## News
 
